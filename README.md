@@ -1,1 +1,1 @@
-Website for sharing ai prompts
+Platform for sharing ai prompts
